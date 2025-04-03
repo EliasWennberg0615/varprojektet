@@ -8,3 +8,5 @@ Jag jobbade klart med sitemapen och försökte hjälpa anton med problem på fon
 Jag har gjort en snyggare sitemap av min gamla sitemap"skiss"
 ## Vecka 13
 Vi påbörjade konstruktionen. Letade efter en bra tjock tv ram att använda och skapa dokumenten som behövs till projektet.
+## Vecka 14
+Idag så har jag börjat med att påbörja en kundvagn sida som ska vara responsiv och sedan har jag även påbörjat med att göra en sida med våra köpvillkor.
